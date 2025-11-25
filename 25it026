@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>25IT026 - Portfolio</title>
+    <link rel="stylesheet" href="25it026.css">
+</head>
+<body>
+    <header>
+        <h1>25IT026 - Simple Web Page</h1>
+        <p>Just a basic page for assignment submission.</p>
+    </header>
+
+    <main>
+        <section class="card">
+            <h2>About Me</h2>
+            <p>
+                Hello! I am a B.Tech IT student. This page is created only for assignment
+                and GitHub practice.
+            </p>
+        </section>
+
+        <section class="card">
+            <h2>Course Details</h2>
+            <ul>
+                <li>Subject: Web Technologies / HTML & CSS Basics</li>
+                <li>Roll No: 25IT026</li>
+                <li>Semester: 1st Year</li>
+            </ul>
+        </section>
+
+        <section class="card">
+            <h2>Contact</h2>
+            <p>Email: example@student.university.edu</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 25IT026 | Simple Assignment Page</p>
+    </footer>
+</body>
+</html>
